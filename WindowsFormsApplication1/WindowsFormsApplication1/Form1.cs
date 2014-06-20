@@ -15,5 +15,13 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Kwadrat kwadrat1 = new Kwadrat();
+            int a = (int)numericUpDown1.Value;
+            MessageBox.Show("Wynik: " + kwadrat1.poleKwadratu(a));
+
+        }
     }
 }
