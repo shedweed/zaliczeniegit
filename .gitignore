@@ -1,4 +1,6 @@
 *.suo
 *.pub
 *.exe
+*.resources
+
 klucz
