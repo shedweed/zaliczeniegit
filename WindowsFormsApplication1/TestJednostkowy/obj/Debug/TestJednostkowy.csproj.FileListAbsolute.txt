@@ -1,0 +1,7 @@
+D:\figury\WindowsFormsApplication1\TestJednostkowy\bin\Debug\TestJednostkowy.dll
+D:\figury\WindowsFormsApplication1\TestJednostkowy\bin\Debug\TestJednostkowy.pdb
+D:\figury\WindowsFormsApplication1\TestJednostkowy\bin\Debug\nunit.framework.dll
+D:\figury\WindowsFormsApplication1\TestJednostkowy\bin\Debug\nunit.framework.xml
+D:\figury\WindowsFormsApplication1\TestJednostkowy\obj\Debug\ResolveAssemblyReference.cache
+D:\figury\WindowsFormsApplication1\TestJednostkowy\obj\Debug\TestJednostkowy.dll
+D:\figury\WindowsFormsApplication1\TestJednostkowy\obj\Debug\TestJednostkowy.pdb
