@@ -26,6 +26,10 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Prostokat prostokat1 = new Prostokat();
+            int a = (int)numericUpDown2.Value;
+            int b = (int)numericUpDown3.Value;
+            MessageBox.Show("Wynik: " + prostokat1.poleProstokatu(a, b));
 
         }
 
@@ -35,6 +39,14 @@ namespace WindowsFormsApplication1
             int a = (int)numericUpDown4.Value;
             int h = (int)numericUpDown5.Value;
             MessageBox.Show("Wynik: " + trojkat1.poleTrojkat(a, h));
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Okrag okrag1 = new Okrag();
+            int a = (int)numericUpDown6.Value;
+            MessageBox.Show("Wynik: " + okrag1.poleOkregu(a));
 
         }
 
